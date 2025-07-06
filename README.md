@@ -1,5 +1,3 @@
-GitHub README dosyan için daha akıcı, düzenli ve profesyonel bir hale getirilmiş versiyon aşağıda yer alıyor:
-
 ---
 
 ## 📌 Problem Tanımı
